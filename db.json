@@ -1,1 +1,138 @@
 
+{
+  "passenger": [
+    {
+      "title": "Mr",
+      "firstName": "Gurpratap",
+      "lastName": "Gurpratap"
+    },
+    {
+      "title": "Mr",
+      "firstName": "Dheeraj Taneja",
+      "lastName": "Gurpratap"
+    },
+    {
+      "title": "Mr",
+      "firstName": "Mayank",
+      "lastName": "Mattaraker"
+    },
+    {
+      "title": "Mr",
+      "firstName": "Rajat",
+      "lastName": "Sharma"
+    },
+    {
+      "title": "Ms",
+      "firstName": "Somya",
+      "lastName": "Singh"
+    },
+    {
+      "title": "Mr",
+      "firstName": "Himanshu",
+      "lastName": "Sharma"
+    },
+    {
+      "title": "Mr",
+      "firstName": "Upendr",
+      "lastName": "Sharma"
+    }
+  ],
+  "category": [
+    "BreakFast",
+    "6E Special",
+    "6E Veg",
+    "6E Non Veg"
+  ],
+  "meals": [
+    {
+      "company": "Bestsellers",
+      "title": "Paneer Tikka Sandwich",
+      "isVeg": true,
+      "info": "more delecious when eaten fresh",
+      "currentPrice": "500",
+      "previousPrice": "700",
+      "currency": "$",
+      "productImage": "https://i.pinimg.com/originals/99/31/f5/9931f5a4ee412bb390fb1a715dfb32b8.jpg",
+      "category": "Indian"
+    },
+    {
+      "company": "Sellers",
+      "title": "Sandwich",
+      "isVeg": true,
+      "info": "Full of chesse and veg",
+      "currentPrice": "300",
+      "previousPrice": "500",
+      "currency": "$",
+      "productImage": "https://thefeed.blog/wp-content/uploads/2019/05/Jimmy-Dean-Eggwich.jpg",
+      "category": "Canadian"
+    },
+    {
+      "company": "Barbeque",
+      "title": "Chicken Sandwich",
+      "isVeg": false,
+      "info": "fresh chicken",
+      "currentPrice": "700",
+      "previousPrice": "100",
+      "currency": "$",
+      "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn095v3Y6U6D7jsGdY_ks6iZVCA3sU5cK9iQhAtNdfmzlZevI6",
+      "category": "UK"
+    },
+    {
+      "company": "Swiggy",
+      "title": "Aloo Matar Samosa",
+      "isVeg": true,
+      "info": "fill with fresh potato ",
+      "currentPrice": "200",
+      "previousPrice": "300",
+      "currency": "$",
+      "productImage": "",
+      "category": "Nepal"
+    },
+    {
+      "company": "Zomato",
+      "title": "Boiled Egg",
+      "isVeg": false,
+      "info": "available with salt",
+      "currentPrice": "300",
+      "previousPrice": "400",
+      "currency": "$",
+      "productImage": "https://www.seriouseats.com/recipes/images/2017/08/5708631471_06fed03518_o-1500x1125.jpg",
+      "category": "Itly"
+    },
+    {
+      "company": "Food panda",
+      "title": "Paneer Paratha",
+      "isVeg": true,
+      "info": "more delecious when eaten fresh",
+      "currentPrice": "100",
+      "previousPrice": "150",
+      "currency": "$",
+      "productImage": "https://recipes.timesofindia.com/thumb/53109843.cms?imgsize=244340&width=800&height=800",
+      "category": "Indian"
+    },
+    {
+      "company": "Halt",
+      "title": "Cofee",
+      "isVeg": true,
+      "info": "more delecious when eaten fresh",
+      "currentPrice": "50",
+      "previousPrice": "70",
+      "currency": "$",
+      "productImage": "https://recipes.timesofindia.com/thumb/53109843.cms?imgsize=244340&width=800&height=800",
+      "category": "Indian"
+    },
+    {
+      "company": "Chayos",
+      "title": "Tea",
+      "isVeg": true,
+      "info": "Made with fresh milk",
+      "currentPrice": "80",
+      "previousPrice": "90",
+      "currency": "$",
+      "productImage": "https://recipes.timesofindia.com/thumb/53109843.cms?imgsize=244340&width=800&height=800",
+      "category": "Indian"
+    },
+    
+  ],
+  "termsAndCondition": "Meal T&C\nEvery combo contains a beverage. All snack items are subject to availability.\nHot snacks & hot beverages are not available on flights under 60 minutes.\nBy selecting any of the snack options, the passenger agrees that in the event any pre-ordered snack item cannot be made available on board for any reason, IndiGo may, at its discretion, either offer an alternate snack item (as per availability), or a full refund (by way of a voucher of the value equivalent to the amount paid by the passenger for the meal) to the passenger, with no further liability."
+}
