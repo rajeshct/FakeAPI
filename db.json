@@ -1,47 +1,45 @@
 {
-	"passenger": [{
+	"passenger": [{"id":1,
 			"title": "Mr",
 			"firstName": "Gurpratap",
 			"lastName": "Gurpratap"
 		},
-		{
+		{"id":2,
 			"title": "Mr",
 			"firstName": "Dheeraj Taneja",
 			"lastName": "Gurpratap"
 		},
-		{
+		{"id":3,
 			"title": "Mr",
 			"firstName": "Mayank",
 			"lastName": "Mattaraker"
 		},
-		{
+		{"id":4,
 			"title": "Mr",
 			"firstName": "Rajat",
 			"lastName": "Sharma"
 		},
-		{
+		{"id":5,
 			"title": "Ms",
 			"firstName": "Somya",
 			"lastName": "Singh"
 		},
 		{
+			"id":6,
 			"title": "Mr",
 			"firstName": "Himanshu",
 			"lastName": "Sharma"
 		},
-		{
+		{"id":7,
 			"title": "Mr",
 			"firstName": "Upendr",
 			"lastName": "Sharma"
 		}
 	],
-	"category": [
-		"BreakFast",
-		"6E Special",
-		"6E Veg",
-		"6E Non Veg"
+	"category": [{"id":1,"category":"BreakFast"}
+		,{"id":1,"category":"6E Prime"},{"id":1,"category":"6E Premium"},{"id":1,"category":"Dinner"}
 	],
-	"meals": [{
+	"meals": [{"id":1,
 			"company": "Bestsellers",
 			"title": "Paneer Tikka Sandwich",
 			"isVeg": true,
@@ -52,7 +50,7 @@
 			"productImage": "https://i.pinimg.com/originals/99/31/f5/9931f5a4ee412bb390fb1a715dfb32b8.jpg",
 			"category": "Indian"
 		},
-		{
+		{"id":2,
 			"company": "Sellers",
 			"title": "Sandwich",
 			"isVeg": true,
@@ -63,7 +61,7 @@
 			"productImage": "https://thefeed.blog/wp-content/uploads/2019/05/Jimmy-Dean-Eggwich.jpg",
 			"category": "Canadian"
 		},
-		{
+		{"id":3,
 			"company": "Barbeque",
 			"title": "Chicken Sandwich",
 			"isVeg": false,
@@ -74,7 +72,7 @@
 			"productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn095v3Y6U6D7jsGdY_ks6iZVCA3sU5cK9iQhAtNdfmzlZevI6",
 			"category": "UK"
 		},
-		{
+		{"id":4,
 			"company": "Swiggy",
 			"title": "Aloo Matar Samosa",
 			"isVeg": true,
@@ -85,7 +83,7 @@
 			"productImage": "",
 			"category": "Nepal"
 		},
-		{
+		{"id":5,
 			"company": "Zomato",
 			"title": "Boiled Egg",
 			"isVeg": false,
@@ -96,7 +94,7 @@
 			"productImage": "https://www.seriouseats.com/recipes/images/2017/08/5708631471_06fed03518_o-1500x1125.jpg",
 			"category": "Itly"
 		},
-		{
+		{"id":6,
 			"company": "Food panda",
 			"title": "Paneer Paratha",
 			"isVeg": true,
@@ -107,7 +105,7 @@
 			"productImage": "https://recipes.timesofindia.com/thumb/53109843.cms?imgsize=244340&width=800&height=800",
 			"category": "Indian"
 		},
-		{
+		{"id":7,
 			"company": "Halt",
 			"title": "Cofee",
 			"isVeg": true,
@@ -118,7 +116,7 @@
 			"productImage": "https://recipes.timesofindia.com/thumb/53109843.cms?imgsize=244340&width=800&height=800",
 			"category": "Indian"
 		},
-		{
+		{"id":8,
 			"company": "Chayos",
 			"title": "Tea",
 			"isVeg": true,
@@ -131,5 +129,5 @@
 		}
 
 	],
-"termsAndCondition": "Every combo contains a beverage. All snack items are subject to availability.Hot snacks & hot beverages are not available on flights under 60 minutes.By selecting any of the snack options, the passenger agrees that in the event any pre-ordered snack item cannot be made available on board for any reason, IndiGo may, at its discretion, either offer an alternate snack item (as per availability), or a full refund (by way of a voucher of the value equivalent to the amount paid by the passenger for the meal) to the passenger, with no further liability."
+"termsAndCondition": {"Every combo contains a beverage. All snack items are subject to availability.Hot snacks & hot beverages are not available on flights under 60 minutes.By selecting any of the snack options, the passenger agrees that in the event any pre-ordered snack item cannot be made available on board for any reason, IndiGo may, at its discretion, either offer an alternate snack item (as per availability), or a full refund (by way of a voucher of the value equivalent to the amount paid by the passenger for the meal) to the passenger, with no further liability."}
 }
